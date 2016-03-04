@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GasCalcActivity!</string>
+    <string name="app_name">The Gas Calculator</string>
+    <string name="miles_not_filled">How many miles are you going?</string>
+    <string name="mpg_not_filled">What is your MPG?</string>
+	<string name="gasarea_not_filled">Cost of gas at starting point?</string>
+    <string name="gasdest_not_filled">Cost of gas at destination?</string>
+	
+</resources>

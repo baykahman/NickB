@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+   
+    
+<LinearLayout
+ 
+   xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+   android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+   
+ 
+        
+ <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="The Gas Calculator. hint: don&apos;t leave anything blank" />
+    
+   
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="281dp"
+        android:layout_height="wrap_content"
+        android:text="How many miles are you going?"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/txtbox1"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:hint = "num?"
+        android:text= "0"
+        android:ems="10"
+        android:inputType="phone" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="What is your car&apos;s MPG?"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/txtbox2"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:hint = "num?"
+        android:text= "0"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="233dp"
+        android:layout_height="wrap_content"
+        android:text="Cost of gas in your area?"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:singleLine="false" />
+
+    <EditText
+        android:id="@+id/txtbox3"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:hint = "num?"
+        android:text= "0"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="281dp"
+        android:layout_height="wrap_content"
+        android:text="Cost of gas at your destination?"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/txtbox4"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:hint = "num?"
+        android:text= "0"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/tV1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate Cost of Trip" />
+
+  <com.google.ads.AdView
+     	android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="a14fcd84ef7ac7e"
+        ads:loadAdOnCreate="true" />
+
+    <TextView
+        android:id="@+id/mainLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+
+
+
+</LinearLayout>
+</ScrollView>
+

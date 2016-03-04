@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidstudioProjects\\GasCalc\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gas_icon.png",
+        "source": "C:\\AndroidstudioProjects\\GasCalc\\app\\src\\main\\res\\drawable\\gas_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidstudioProjects\\GasCalc\\app\\build\\intermediates\\res\\merged\\release\\drawable\\g_icon.png",
+        "source": "C:\\AndroidstudioProjects\\GasCalc\\app\\src\\main\\res\\drawable\\g_icon.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidstudioProjects\\GasCalc\\app\\build\\intermediates\\res\\merged\\release\\layout\\application.xml",
+        "source": "C:\\AndroidstudioProjects\\GasCalc\\app\\src\\main\\res\\layout\\application.xml"
+    },
+    {
+        "merged": "C:\\AndroidstudioProjects\\GasCalc\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\AndroidstudioProjects\\GasCalc\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

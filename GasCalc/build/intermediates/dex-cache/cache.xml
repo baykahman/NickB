@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidstudioProjects\GasCalc\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_87f482d7dcb48bea73b15092f1df9f71bbd6a78c.jar" />
+    </item>
+    <item
+        jar="C:\AndroidstudioProjects\GasCalc\app\libs\GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="C:\AndroidstudioProjects\GasCalc\app\build\intermediates\pre-dexed\release\GoogleAdMobAdsSdk-6.0.1_9597b66ad932b37238e3849493ddc70b366f709c.jar" />
+    </item>
+
+</items>
